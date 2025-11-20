@@ -1,6 +1,6 @@
 # AS Heart Disease Prediction
 
-AS Heart Disease Prediction is an Android application designed to help users assess their risk of heart disease using AI-powered prediction models. The app also features a chatbot for health-related queries and a hospital finder to locate nearby medical facilities.
+AS Heart Disease Prediction is an Android application designed to help users assess their risk of heart disease using machine learning(XGBoost) prediction models. The app also features a chatbot for health-related queries and a hospital finder to locate nearby medical facilities.
 
 > **Disclaimer:** This app provides AI-supported health information and is **NOT** a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for any medical concerns.
 
