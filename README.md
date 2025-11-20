@@ -127,6 +127,3 @@ The app follows the **MVVM (Model-View-ViewModel)** architecture pattern to ensu
     *   `ui`: Composable screens and ViewModels.
     *   `navigation`: Navigation graph and logic.
 
-## License
-
-[Add your license here, e.g., MIT]
