@@ -21,7 +21,7 @@ interface PlacesApiService {
 
 object PlacesApiClient {
     private const val BASE_URL = "https://maps.googleapis.com/maps/api/"
-    private const val API_KEY = "AIzaSyDHn03_dCpJks2vQ-eRMR_TjQp67bM4UTY"
+    private const val API_KEY = ""
     
     private val loggingInterceptor = HttpLoggingInterceptor().apply {
         level = HttpLoggingInterceptor.Level.BODY
