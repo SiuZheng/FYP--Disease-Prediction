@@ -1,4 +1,59 @@
-/decoded_image.png
-/shap_waterfall_plot.png
-/shap_waterfall_plot_doctor.png
-/__pycache__
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git
+.mypy_cache
+.pytest_cache
+.hypothesize
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# JetBrains IDE
+.idea/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Project Specific
+python-api/venv/
+python-api/__pycache__/
+python-api/.env

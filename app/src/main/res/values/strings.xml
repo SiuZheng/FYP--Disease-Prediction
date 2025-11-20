@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AS-HeartDiseasePrediction</string>
+    
+    <!-- Onboarding Disclaimer -->
+    <string name="onboarding_title">Important Disclaimer</string>
+    <string name="onboarding_disclaimer">This app provides AI-supported health information and is NOT a substitute for professional medical advice. Always consult a qualified healthcare provider.</string>
+    <string name="onboarding_learn_more">Learn More</string>
+    <string name="onboarding_understand">I Understand</string>
+    <string name="onboarding_dont_show_again">Don\'t show again</string>
+    
+    <!-- Prediction Result Notice -->
+    <string name="prediction_notice">AI-supported result — not a medical diagnosis.</string>
+    <string name="prediction_notice_see_about">See About → How it works</string>
+    
+    <!-- About Page Content -->
+    <string name="about_title">About</string>
+    <string name="about_how_it_works_title">How it works</string>
+    <string name="about_how_it_works_content">We use selected health data and a machine learning model(XGBoost) trained on anonymized datasets to estimate risk. Results are supportive only and have limitations.</string>
+    <string name="about_data_used_title">What data is used</string>
+    <string name="about_data_used_content">The app uses information such as age, blood pressure, cholesterol levels, symptoms, and other health indicators you provide.</string>
+    <string name="about_model_title">How predictions are made</string>
+    <string name="about_model_content">Our machine learning model was trained on anonymized datasets to provide risk estimates. These are not medical diagnoses and should be used for informational purposes only.</string>
+    <string name="about_accuracy_title">Model accuracy</string>
+    <string name="about_accuracy_content">Model 1(General User) accuracy: 97.8%\n Model 2(Healthcare Professional) accuracy: 89.93% </string>
+    <string name="about_limitations_title">Limitations</string>
+    <string name="about_limitations_content">• Results are estimates based on available data\n• Individual health conditions may vary\n• Not a replacement for professional medical advice\n• Always consult healthcare providers for diagnosis</string>
+    <string name="about_references_title">References</string>
+    <string name="about_references_content">• Heart disease prediction datasets\n• Medical research publications\n• Clinical guidelines and standards</string>
+    <string name="about_disclaimer_title">Full Disclaimer</string>
+    <string name="about_disclaimer_content">This application is designed for informational and educational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read or interpreted from this application.</string>
+    
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="info">Info</string>
+</resources>
