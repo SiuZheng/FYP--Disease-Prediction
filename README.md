@@ -126,4 +126,23 @@ The app follows the **MVVM (Model-View-ViewModel)** architecture pattern to ensu
 *   **UI Layer**: Built with Jetpack Compose.
     *   `ui`: Composable screens and ViewModels.
     *   `navigation`: Navigation graph and logic.
+    *   
+## Demo
 
+<img src="assets/Picture10.jpg" width="200"><br>
+<img src="assets/Picture1.jpg" width="200"><br>
+<img src="assets/Picture2.jpg" width="200"><br>
+<img src="assets/Picture3.jpg" width="200"><br>
+<img src="assets/Picture4.jpg" width="200"><br>
+<img src="assets/Picture5.jpg" width="200"><br>
+<img src="assets/Picture6.jpg" width="200"><br>
+<img src="assets/Picture7.jpg" width="200"><br>
+<img src="assets/Picture8.jpg" width="200"><br>
+<img src="assets/Picture9.jpg" width="200"><br>
+<img src="assets/Picture11.jpg" width="200"><br>
+<img src="assets/Picture12.jpg" width="200"><br>
+<img src="assets/Picture13.jpg" width="200"><br>
+<img src="assets/Picture14.jpg" width="200"><br>
+<img src="assets/Picture15.jpg" width="200"><br>
+<img src="assets/Picture16.jpg" width="200"><br>
+<img src="assets/Picture17.jpg" width="200"><br>
